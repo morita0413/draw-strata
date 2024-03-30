@@ -54,8 +54,8 @@
   ![image](https://github.com/morita0413/ktakalab/assets/165443540/612b6f9c-69ea-4a76-8173-92aa19557613)
   
 # 表現方法について(堆積順)
-  -堆積順は地層がどの順番で堆積したかを表す記号列
-  -下の例の場合「ABCD」が堆積順となる
+  - 堆積順は地層がどの順番で堆積したかを表す記号列
+  - 下の例の場合「ABCD」が堆積順となる
 
   ![image](https://github.com/morita0413/ktakalab/assets/165443540/388b5e01-7870-45c3-b344-d4b6efd779e5)
 
